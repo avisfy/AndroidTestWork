@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Two activity app</string>
+    <string name="tv1text">Text1</string>
+    <string name="tv2text">Text2</string>
+    <string name="btn1text">Text - red, bg - gray</string>
+    <string name="btn2text">Go to activity 2</string>
+    <string name="btn3text">Text - white, bg - blue</string>
+    <string name="act2btn1text">Apply</string>
+</resources>
